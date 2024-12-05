@@ -1,0 +1,72 @@
+{
+    "buttons": {
+        "button changed": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "Button 2": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "Button 3": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "Button 4": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "Button 5": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "Button 6": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "Button 7": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "Button 8": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        }
+    },
+    "midi_ports": {
+        "input": null,
+        "output": null
+    }
+}

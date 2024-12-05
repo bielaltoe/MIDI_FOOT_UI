@@ -1,0 +1,72 @@
+{
+    "buttons": {
+        "CHORUS": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "DLY": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "FLANGER": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "PHASER": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "SCENE 1": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "SCENE 2": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "SCENE 3": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        },
+        "SCENE 4": {
+            "input_type": "note",
+            "input_number": null,
+            "output_type": "note",
+            "output_number": null,
+            "output_value": 127,
+            "midi_message": null
+        }
+    },
+    "midi_ports": {
+        "input": null,
+        "output": null
+    }
+}
